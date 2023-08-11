@@ -1,0 +1,54 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/serum-creatinine-tests-procedure---primary.py
+inputModule3:
+  class: File
+  path: python/serum-creatinine-tests-laboratory---primary.py
+inputModule4:
+  class: File
+  path: python/serum-creatinine-tests-blood---primary.py
+inputModule5:
+  class: File
+  path: python/serum---primary.py
+inputModule6:
+  class: File
+  path: python/normal-serum-creatinine-tests---primary.py
+inputModule7:
+  class: File
+  path: python/serum-creatinine-tests---primary.py
+inputModule8:
+  class: File
+  path: python/serum-creatinine-tests-plasma---primary.py
+inputModule9:
+  class: File
+  path: python/serum-creatinine-tests-corrected---primary.py
+inputModule10:
+  class: File
+  path: python/renal-serum-creatinine-tests---primary.py
+inputModule11:
+  class: File
+  path: python/serum-creatinine-tests-level---primary.py
+inputModule12:
+  class: File
+  path: python/serum-creatinine-tests-monitoring---primary.py
+inputModule13:
+  class: File
+  path: python/serum-creatinine-tests-result---primary.py
+inputModule14:
+  class: File
+  path: python/serum-creatinine-tests-invitation---primary.py
+inputModule15:
+  class: File
+  path: python/serum-creatinine-tests-impairment---primary.py
+inputModule16:
+  class: File
+  path: python/serum-creatinine-tests-impaired---primary.py
+inputModule17:
+  class: File
+  path: python/other-serum-creatinine-tests---primary.py
+inputModule18:
+  class: File
+  path: python/output-cases.py
